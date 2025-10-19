@@ -31,3 +31,17 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Environment Variables ###
+.env
+.env.local
+.env.production
+.env.staging
+
+### Logs ###
+logs/
+*.log
+
+### Security ###
+application-local.properties
+application-secret.properties
