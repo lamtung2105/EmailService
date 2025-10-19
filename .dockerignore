@@ -1,0 +1,40 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# IDE
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Environment
+.env
+.env.local
+.env.production
+.env.staging
+
+# Logs
+logs/
+*.log
+
+# Documentation
+README.md
+HELP.md
+SECURITY.md
+DEPLOYMENT_GUIDE.md
+
+# Scripts
+run-dev.bat
+run-prod.bat
